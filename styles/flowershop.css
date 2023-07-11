@@ -45,7 +45,58 @@ body {
   max-width: 100%;
   margin-left: 100px;
 }
+
 /* main section styles */
 .flower-featured {
   text-align: center;
+  margin-top: 100px;
+}
+.flower-featured-pics {
+  text-align: center;
+  margin-top: 48px;
+}
+.flower-featured-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 0px;
+}
+.flower-featured-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.pnwwing-six {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  width: 10%;
+  padding: 70px 50px 0 50px;
+  margin-right: 10px;
+}
+.pnwwing-five {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+  width: 10%;
+  padding: 80px 50px 40px 50px;
+  margin-right: 10px;
+}
+.pnwwing-seven {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+  width: 10%;
+  padding: 60px 50px 0 50px;
+}
+/* kahini styles */
+.pic-er-kahini-re-bhai {
+  display: flex;
+  margin-left: 320px;
+}
+.second-pic {
+  margin-left: 140px;
+}
+.third-pic {
+  margin-left: 140px;
 }
