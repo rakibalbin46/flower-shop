@@ -1,0 +1,51 @@
+/* Common shared styles */
+body {
+  font-family: "Lato", sans-serif;
+}
+.btn-primary {
+  border-radius: 5px;
+  background: #e55473;
+  border: 0px;
+  color: white;
+  font-size: 13px;
+  font-weight: 400;
+  padding: 15px 27px;
+}
+.hero-section-title {
+  color: #272727;
+  text-align: left;
+  font-size: 60px;
+  font-weight: 800;
+  margin-bottom: 0px;
+}
+.header-section-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+}
+
+/*header section styles */
+.header {
+  background: rgba(229, 84, 115, 0.1);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: 40%;
+}
+.hero-section {
+  display: flex;
+  align-items: center;
+}
+.hero-section .profile-pic {
+  width: 400px;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.hero-section-content {
+  max-width: 100%;
+  margin-left: 100px;
+}
+/* main section styles */
+.flower-featured {
+  text-align: center;
+}
