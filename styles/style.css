@@ -154,7 +154,7 @@ body {
   color: #e55473;
 }
 
-/* Istageram section styles */
+/* Instagram section styles */
 .instagram-all-pic {
   display: flex;
   align-items: center;
@@ -177,4 +177,63 @@ body {
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 50px;
+}
+/* latest deal styles */
+.latest-deal {
+  text-align: center;
+  background-image: url(../images/Rectangle\ 9.png);
+  margin: 50px 280px 50px 300px;
+  padding: 60px 50px 80px 50px;
+  background-image: auto;
+}
+.latest-deal-title {
+  color: #272727;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 0;
+  padding-right: 50px;
+}
+.letest-deal-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+}
+input {
+  width: 60%;
+  padding: 10px 20px;
+}
+#btn-last {
+  padding: 12px 27px;
+}
+/* Footer styles */
+.footer {
+  text-align: center;
+  background: #111010;
+  color: white;
+  padding: 110px 200px 110px 200px;
+  margin-top: 60px;
+}
+.footer-title {
+  color: #e55473;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+.footer-description {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 300;
+  margin-bottom: 32px;
+}
+small {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+}
+#shop {
+  color: white;
 }
