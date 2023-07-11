@@ -238,3 +238,34 @@ small {
 #shop {
   color: white;
 }
+
+/* Extra section styles */
+.various-flowers {
+  display: flex;
+}
+.extra-section {
+  text-align: center;
+}
+.extra-section-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-top: 50px;
+}
+.extra-section-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+}
+.rose {
+  color: #e55473;
+  font-size: 18px;
+  margin-right: 50px;
+  text-align: center;
+  padding: 5px;
+}
+.rose:hover {
+  background-color: #f5b4b4;
+}
