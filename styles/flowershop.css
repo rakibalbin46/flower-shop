@@ -148,8 +148,33 @@ body {
   font-weight: 400;
 }
 .hot-deal-content {
-    padding: 0 100px 0 200px;
+  padding: 0 100px 0 200px;
 }
 #off {
-    color: #e55473;
+  color: #e55473;
+}
+
+/* Istageram section styles */
+.instagram-all-pic {
+  display: flex;
+  align-items: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  margin-bottom: 80px;
+}
+.instagram {
+  color: #272727;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+.insta-pic {
+  margin-right: 15px;
+}
+.instagram-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 50px;
 }
