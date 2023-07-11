@@ -117,8 +117,9 @@ body {
 .flower-icon-description {
   color: rgba(39, 39, 39, 0.8);
   text-align: center;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 400;
+  margin-right: 15px;
 }
 
 /* Hot deal section styles */
